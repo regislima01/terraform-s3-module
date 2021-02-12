@@ -10,17 +10,13 @@ In this code, I used **terraform version 0.14**
 
 **All default parameters that you need to change is inside on main.tf**
 
-You need to change to your bucket name
-
-
-*This code you'll be improved in the future and I'll be added more functions.*
-
-
 # Working with policies
 
 You will see a folder named **policies**, inside this folder you'll find 3 JSON files: hourly.json, daily.json, and weekly.json, inside these files you can change or modify the policies for the more adequate way you want.
 
 If you use the policy that I've attached, don't forget to change your bucket name inside policy.
+
+*This code you'll be improved in the future and I'll be added more functions.*
 
 ## Terraform versions
 
