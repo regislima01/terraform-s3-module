@@ -8,7 +8,9 @@ In this code, I used **terraform version 0.14**
 
 # Let's Start
 
-**All default parameters that you need to change is inside on main.tf**
+**All default parameters that you need to change is inside on main.tf on folder setup**
+
+go to folder **setup** and than type init terraform command: **terraform init**
 
 # Working with policies
 
