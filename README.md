@@ -65,7 +65,6 @@ Terraform 0.14 and above are supported.
 | server\_side\_encryption\_configuration | Map containing server-side encryption configuration. | `any` | `{}` | no |
 | sse_algorithm | The server-side encryption algorithm to use. Valid values are AES256 and aws:kms". | `string` | `AES256` | yes |
 | standard\_transition\_days | Number of days to persist in the standard storage tier before moving to the infrequent access tier. | `number` | `30` | no |
-| tags | (Optional) A mapping of tags to assign to the bucket. | `map(string)` | `{}` | no |
 | versioning | Map containing versioning configuration. | `bool` | `enable` | no |
 
 
