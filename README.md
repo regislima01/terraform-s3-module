@@ -10,7 +10,7 @@ In this code, I used **terraform version 0.14**
 
 **All default parameters that you need to change is inside on main.tf on folder setup**
 
-go to folder **setup** and than type init terraform command: **terraform init**
+go to folder **setup** and than type init terraform command: **terraform init | terraform plan | terraform apply **
 
 # Working with policies
 
